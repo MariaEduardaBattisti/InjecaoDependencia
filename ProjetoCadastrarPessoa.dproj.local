@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/09/14 14:17:35.000.531,=C:\Users\dudad\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/09/14 14:17:56.000.018,C:\Users\dudad\Desktop\Delphi\ProjetoCadastrarPessosa\uFrmPrincipal.dfm=C:\Users\dudad\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/09/14 14:17:56.000.018,C:\Users\dudad\Desktop\Delphi\ProjetoCadastrarPessosa\uFrmPrincipal.pas=C:\Users\dudad\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/09/14 14:18:16.000.230,C:\Users\dudad\Desktop\Delphi\ProjetoCadastrarPessosa\ProjetoCadastrarPessoa.dproj=C:\Users\dudad\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2020/09/14 14:28:39.000.058,=C:\Users\dudad\Desktop\Delphi\ProjetoCadastrarPessosa\Unit1.pas</Transaction>
+    <Transaction>2020/09/14 14:28:50.000.401,C:\Users\dudad\Desktop\Delphi\ProjetoCadastrarPessosa\uPessoa.pas=C:\Users\dudad\Desktop\Delphi\ProjetoCadastrarPessosa\Unit1.pas</Transaction>
+    <Transaction>2021/04/29 19:27:35.000.124,=C:\Users\curso\Desktop\CadastroPessoa-master\ProjetoCadastrarPessosa\Unit1.pas</Transaction>
+    <Transaction>2021/04/29 19:27:46.000.059,C:\Users\curso\Desktop\CadastroPessoa-master\ProjetoCadastrarPessosa\Unit1.pas=C:\Users\curso\Desktop\CadastroPessoa-master\ProjetoCadastrarPessosa\uEndereco.pas</Transaction>
+    <Transaction>2021/04/29 20:34:38.000.778,C:\Users\curso\Desktop\CadastroPessoa-master\ProjetoCadastrarPessosa\uEndereco.pas=</Transaction>
+    <Transaction>2021/04/29 20:40:46.000.049,=C:\Users\curso\Desktop\CadastroPessoa-master\ProjetoCadastrarPessosa\Unit1.pas</Transaction>
+    <Transaction>2021/04/29 20:40:56.000.401,C:\Users\curso\Desktop\CadastroPessoa-master\ProjetoCadastrarPessosa\Unit1.pas=C:\Users\curso\Desktop\CadastroPessoa-master\ProjetoCadastrarPessosa\uFuncionario.pas</Transaction>
+  </Transactions>
+</BorlandProject>
